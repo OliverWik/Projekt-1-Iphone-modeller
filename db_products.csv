@@ -1,0 +1,13 @@
+id,name,desc,price,quantity
+1,iPhone 16 Pro Max 1TB,Biggest iPhone ever made!,20000.0,100
+2,iPhone 13 Pro Max 250GB,One of the best iPhones made,10000.0,275
+3,iPhone 14 128GB,A cutting-edge smartphone with advanced camera features and powerful performance,5000.0,300
+4,iPhone 11 64GB,A dependable smartphone featuring a Liquid Retina display,2000.0,450
+5,iPhone XS 128GB,A premium smartphone featuring a Super Retina display,1000.0,500
+6,Iphone 6 64GB,A reliable older model,500,200
+7,iPhone 8 64GB,A sleek and durable model with improved performance,750.0,100
+8,iPhone 7 128GB,A reliable and durable smartphone with a sharp Retina HD display,800.0,120
+9,iPhone 15 Pro Max 128GB,A top-tier smartphone offering a stunning Super Retina XDR display,13000.0,90
+10,iPhone 14 Plus 128GB,A larger-screen smartphone featuring a Super Retina XDR display,6500.0,270
+11,iPhone 5C 32GB,A compact and colorful smartphone with essential features,350.0,100
+12,iPhone SE 64GB 2020,A compact powerhouse featuring the A13 Bionic chip,850.0,45
